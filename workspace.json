@@ -3,11 +3,11 @@
   "annotationsUpdatedAt": "2026-09-16T17:07:58.663Z",
   "generatedBy": "detektIIIF",
   "id": "https://github.com/leanderseige/d4-test4/tree/main",
-  "itemsPath": null,
-  "itemsUpdatedAt": "2026-09-16T17:07:58.663Z",
+  "itemsPath": "items.json",
+  "itemsUpdatedAt": "2026-09-16T17:08:18.918Z",
   "name": "d4-test4",
   "type": "detektIIIF:Workspace",
-  "updatedAt": "2026-09-16T17:07:58.663Z",
+  "updatedAt": "2026-09-16T17:08:18.918Z",
   "version": 1,
   "workspaceId": "default"
 }
