@@ -1,13 +1,20 @@
 {
-  "annotations": {},
-  "annotationsUpdatedAt": "2026-09-16T17:07:58.663Z",
+  "annotations": {
+    "https://cdm21033.contentdm.oclc.org/iiif/krt:1652/canvas/c0": {
+      "id": "https://raw.githubusercontent.com/leanderseige/d4-test4/main/annotations/51ad9ecc-e005-5c9b-ac87-fdaeb067cff1.json",
+      "itemCount": 1,
+      "path": "annotations/51ad9ecc-e005-5c9b-ac87-fdaeb067cff1.json",
+      "updatedAt": "2026-09-16T17:08:44.702Z"
+    }
+  },
+  "annotationsUpdatedAt": "2026-09-16T17:08:44.702Z",
   "generatedBy": "detektIIIF",
   "id": "https://github.com/leanderseige/d4-test4/tree/main",
   "itemsPath": "items.json",
   "itemsUpdatedAt": "2026-09-16T17:08:18.918Z",
   "name": "d4-test4",
   "type": "detektIIIF:Workspace",
-  "updatedAt": "2026-09-16T17:08:18.918Z",
+  "updatedAt": "2026-09-16T17:08:44.702Z",
   "version": 1,
   "workspaceId": "default"
 }
