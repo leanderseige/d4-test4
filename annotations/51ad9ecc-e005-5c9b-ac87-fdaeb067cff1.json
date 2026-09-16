@@ -1,0 +1,60 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://raw.githubusercontent.com/leanderseige/d4-test4/main/annotations/51ad9ecc-e005-5c9b-ac87-fdaeb067cff1.json",
+  "items": [
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>Terrein</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":34.93996090477526,\"id\":\"2ca75b93-5347-4db9-ab6a-a42396322d39\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":104.81988271432556,\"x\":1335.9075677185144,\"y\":1178.1318067578889},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":34.93996090477526,\"id\":\"2ca75b93-5347-4db9-ab6a-a42396322d39\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":104.81988271432556,\"x\":1335.9075677185144,\"y\":1178.1318067578889}]}",
+          "fullCanvaXYWH": "0,0,3910,3836",
+          "scale": 0.9063136920011385,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3910' height='3836'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1335.9075677185142 1178.1318067578886 L 1440.7274504328398 1178.1318067578886 L 1440.7274504328398 1213.071767662664 L 1335.9075677185142 1213.071767662664 L 1335.9075677185142 1178.1318067578886 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='2.9999999999999996' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>Terrein</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='3910' height='3836'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 1335.9075677185142 1178.1318067578886 L 1440.7274504328398 1178.1318067578886 L 1440.7274504328398 1213.071767662664 L 1335.9075677185142 1213.071767662664 L 1335.9075677185142 1178.1318067578886 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='2.9999999999999996' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://cdm21033.contentdm.oclc.org/iiif/krt:1652/canvas/c0#"
+          }
+        ],
+        "source": "https://cdm21033.contentdm.oclc.org/iiif/krt:1652/canvas/c0"
+      },
+      "id": "https://raw.githubusercontent.com/leanderseige/d4-test4/main/annotations/51ad9ecc-e005-5c9b-ac87-fdaeb067cff1.json#3be86251-d3c9-4565-a5fb-d5d3bbbf645d",
+      "creationDate": "16.09.26, 19:08",
+      "creator": "leanderseige",
+      "created": "2026-09-16T17:08:43.933Z",
+      "modified": "2026-09-16T17:08:43.933Z"
+    }
+  ],
+  "partOf": {
+    "id": "https://github.com/leanderseige/d4-test4/tree/main",
+    "label": {
+      "none": [
+        "d4-test4"
+      ]
+    },
+    "type": "Collection"
+  },
+  "target": "https://cdm21033.contentdm.oclc.org/iiif/krt:1652/canvas/c0",
+  "type": "AnnotationPage"
+}
