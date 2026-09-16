@@ -1,0 +1,11 @@
+{
+  "https://cdm21033.contentdm.oclc.org/iiif/krt:1654/manifest.json": {
+    "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:1654/manifest.json",
+    "url": "https://vu.contentdm.oclc.org/iiif/2/krt:1654/manifest.json",
+    "cors": false,
+    "error": 0,
+    "version": 2,
+    "label": "Plattegrond van Rotterdam / geteekend door J.J. Claus",
+    "thumb": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:1652/full/,100/0/default.jpg"
+  }
+}
