@@ -1,0 +1,60 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "https://raw.githubusercontent.com/leanderseige/d4-test4/main/annotations/7d921640-bd27-5b40-8e0f-dbbc79832d0c.json",
+  "items": [
+    {
+      "body": [
+        {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>Head</p>"
+        }
+      ],
+      "maeData": {
+        "tags": [],
+        "target": {
+          "drawingState": "{\"currentShape\":{\"fill\":\"rgba(100,100,100, 0)\",\"height\":105.42857142857142,\"id\":\"d8c7c046-6d0f-4b7c-8bc4-209b97d830d9\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":159.05172413793105,\"x\":100.42980295566502,\"y\":206.3128078817734},\"isDrawing\":true,\"shapes\":[{\"fill\":\"rgba(100,100,100, 0)\",\"height\":105.42857142857142,\"id\":\"d8c7c046-6d0f-4b7c-8bc4-209b97d830d9\",\"scaleX\":1,\"scaleY\":1,\"stroke\":\"rgba(255,0, 0, 0.5)\",\"strokeWidth\":5,\"type\":\"rectangle\",\"width\":159.05172413793105,\"x\":100.42980295566502,\"y\":206.3128078817734}]}",
+          "fullCanvaXYWH": "0,0,369,901",
+          "scale": 0.9091826437941474,
+          "svg": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='369' height='901'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 100.42980295566502 206.3128078817734 L 259.48152709359607 206.3128078817734 L 259.48152709359607 311.7413793103448 L 100.42980295566502 311.7413793103448 L 100.42980295566502 206.3128078817734 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+        },
+        "templateType": "multiple_body",
+        "textBody": {
+          "purpose": "describing",
+          "type": "TextualBody",
+          "value": "<p>Head</p>"
+        }
+      },
+      "motivation": "commenting",
+      "target": {
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='369' height='901'><defs/><g><g><path fill='rgb(100,100,100)' stroke='rgb(255,0,0' paint-order='fill stroke markers' d=' M 100.42980295566502 206.3128078817734 L 259.48152709359607 206.3128078817734 L 259.48152709359607 311.7413793103448 L 100.42980295566502 311.7413793103448 L 100.42980295566502 206.3128078817734 Z Z' fill-opacity='0' stroke-miterlimit='10' stroke-width='3' stroke-dasharray=''/></g></g></svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "value": "https://gallerycollections.courtauld.ac.uk/api/iiif/O27689/canvas/1#"
+          }
+        ],
+        "source": "https://gallerycollections.courtauld.ac.uk/api/iiif/O27689/canvas/1"
+      },
+      "id": "https://raw.githubusercontent.com/leanderseige/d4-test4/main/annotations/7d921640-bd27-5b40-8e0f-dbbc79832d0c.json#ca19462b-1565-4553-bce1-83c2d872ce9e",
+      "creationDate": "17.09.26, 08:43",
+      "creator": "leanderseige",
+      "created": "2026-09-17T06:43:09.891Z",
+      "modified": "2026-09-17T06:43:09.891Z"
+    }
+  ],
+  "partOf": {
+    "id": "https://github.com/leanderseige/d4-test4/tree/main",
+    "label": {
+      "none": [
+        "d4-test4"
+      ]
+    },
+    "type": "Collection"
+  },
+  "target": "https://gallerycollections.courtauld.ac.uk/api/iiif/O27689/canvas/1",
+  "type": "AnnotationPage"
+}
