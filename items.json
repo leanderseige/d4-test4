@@ -7,5 +7,14 @@
     "version": 2,
     "label": "Plattegrond van Rotterdam / geteekend door J.J. Claus",
     "thumb": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:1652/full/,100/0/default.jpg"
+  },
+  "https://gallerycollections.courtauld.ac.uk/api/iiif/O27689/manifest.json": {
+    "id": "https://gallerycollections.courtauld.ac.uk/api/iiif/O27689/manifest.json",
+    "url": "https://gallerycollections.courtauld.ac.uk/api/iiif/O27689/manifest.json",
+    "cors": false,
+    "error": 0,
+    "version": 3,
+    "label": "Saint  Anthony of Padua",
+    "thumb": "https://gallerycollections.courtauld.ac.uk/iiif/3/69956/full/max/0/default.jpg"
   }
 }
